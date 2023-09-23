@@ -167,27 +167,6 @@ $ yarn test:e2e
 $ yarn test:cov
 ```
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/ahmetuysal"><img src="https://avatars.githubusercontent.com/u/26417668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ahmet Uysal</b></sub></a><br /><a href="https://github.com/ahmetuysal/nest-hackathon-starter/commits?author=ahmetuysal" title="Code">💻</a> <a href="https://github.com/ahmetuysal/nest-hackathon-starter/commits?author=ahmetuysal" title="Documentation">📖</a> <a href="https://github.com/ahmetuysal/nest-hackathon-starter/commits?author=ahmetuysal" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://dnlytras.com"><img src="https://avatars.githubusercontent.com/u/4951004?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimitrios Lytras</b></sub></a><br /><a href="https://github.com/ahmetuysal/nest-hackathon-starter/commits?author=dimitrisnl" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ## Support Nest
 
 Nest is an MIT-licensed open source project. If you'd like to join support Nest, please [read more here](https://docs.nestjs.com/support).
